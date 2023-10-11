@@ -4,5 +4,8 @@ El programa recibe un directorio dado por el usuario, donde busca todos los arch
 
 Para usar el programa sin necesitar Python instalado, se puede crear un ejecutable usando pyinstaller.
 
-De las librerias utilizadas, la única que no es convencional es pdfplumber:
+De las librerias utilizadas, las únicas que no son convencionales son pdfplumber y tkinter.
+
 https://pypi.org/project/pdfplumber/
+
+https://docs.python.org/3/library/tkinter.html
