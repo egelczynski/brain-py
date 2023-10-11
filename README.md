@@ -1,2 +1,5 @@
-# brain-py
-Repositorio para programas hechos para Brain realizados con Python.
+# Extractor: Contract Notes
+
+El programa recibe un directorio dado por el usuario, donde busca todos los archivos pdf y crea un archivo Excel, con los datos deseados de este tipo de documento.
+
+Para usar el programa sin necesitar Python instalado, se puede crear un ejecutable usando pyinstaller.
