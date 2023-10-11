@@ -5,3 +5,7 @@ El programa recorre los subdirectorios para reemplazar el nombre de archivos, se
 Se le debe dar un término de búsqueda y uno de reemplazo.
 
 Para usar el programa sin necesitar Python instalado, se puede crear un ejecutable usando pyinstaller.
+
+De las librerias utilizadas, la única que no es convencional es tkinter.
+
+https://docs.python.org/3/library/tkinter.html
